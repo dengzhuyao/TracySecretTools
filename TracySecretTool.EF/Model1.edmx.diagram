@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="01cbbc29b1ef401fba3c82fa72432188" Name="Diagram1">
+        <EntityTypeShape EntityType="TracySecretToolModel.TMsg_Code" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TracySecretToolModel.TTotal_Config" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TracySecretToolModel.TTotal_Error" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="TracySecretToolModel.TTrain_Station" Width="1.5" PointX="2.75" PointY="3.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

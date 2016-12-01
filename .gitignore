@@ -1,0 +1,11 @@
+bin
+obj
+*.suo
+*.pubxml
+*.pubxml.user
+Web.Debug.config
+Thumbs.db
+~$*.*
+_Log
+_Acc
+/Web_Release
